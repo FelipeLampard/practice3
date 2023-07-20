@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+
+.container{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    padding: 0.5rem;
+    margin-left: 15rem;
+    margin-right: 15rem;
+    background-color: beige;
+    
+}
+
+.list{
+    align-items: end;
+}
+
+.box{
+    display: grid;
+
+}
+
+.boxes{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.results{
+    display: grid;
+    justify-content: space-around;
+}
+
+.check{
+    display: flex;
+    justify-content: space-around;
+
+}
+
